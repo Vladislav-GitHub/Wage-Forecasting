@@ -13,7 +13,7 @@ I've used Scikit-learn and Flask web framework based in Python
 it was necessary to use Scikit-learn for Machine Learning and Flask, which provides configuration and conventions, with sensible defaults
 
 ## Explaining the project
-My final project is a website written in python which allows the user to enter candidate's experience, interview scores and test results to get wage prediction and moreover this form has link to my portfolio website.
+My final project is a website written in python that allows the user to enter candidate's experience, interview scores, and test results to get wage prediction, and moreover this form has link to my portfolio website.
 
 ## project.py for Machine Learning, test_project.py for testing, app.py for a website in which this ML model predicts the candidate wage
 All information about experience, test scores, interview scores and wages for each candidate are stored in job_search.csv.
