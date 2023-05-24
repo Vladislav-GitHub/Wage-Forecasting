@@ -23,7 +23,7 @@ All information about experience, test scores, interview scores and wages for ea
 
 
 ## Demonstration on youtube
-For the CS50P final project you have to make a video showning your project,
+For the CS50P final project you have to make a video showing my project,
 [My Final Project presentation](https://youtu.be/khIbGArf-4g)
 
 ## Documentation
